@@ -1,4 +1,4 @@
-# 🎬 MKV CutCut v1.0
+# 🎬 MKV CutCut
 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20x64-cyan)
