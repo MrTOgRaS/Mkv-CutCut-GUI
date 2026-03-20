@@ -27,13 +27,12 @@
 ### 🛠️ Installation & Usage
 1. **Download EXE:** Go to [Releases](../../releases) and download `MKV-Cutcut-GUI_v1.1.exe`.
 2. **Run from Source:** Ensure [MKVToolNix](https://mkvtoolnix.download/) is installed and run:
-   ```bash
-   python MkvCutCutGui.py
-   
-   
-   ---
+```bash
+python MkvCutCut.py
+```
 
-```markdown
+---
+
 <a name="türkçe"></a>
 ## 🇹🇷 Türkçe
 
@@ -50,14 +49,12 @@
 ### 🛠️ Kurulum ve Kullanım
 1. **EXE İndir:** [Releases](../../releases) sayfasından güncel `MKV-Cutcut-GUI_v1.1.exe` dosyasını indirin.
 2. **Koddan Çalıştır:** Bilgisayarınızda [MKVToolNix](https://mkvtoolnix.download/) kurulu olmalıdır:
-   ```bash
-   python MkvCutCutGui.py
-   
-   
-   
-   ---
-   
-```markdown
+```bash
+python MkvCutCut.py
+```
+
+---
+
 <a name="deutsch"></a>
 ## 🇩🇪 Deutsch
 
@@ -74,11 +71,12 @@
 ### 🛠️ Installation & Nutzung
 1. **EXE Herunterladen:** Unter [Releases](../../releases) die `MKV-Cutcut-GUI_v1.1.exe` laden.
 2. **Vom Quellcode starten:** [MKVToolNix](https://mkvtoolnix.download/) muss installiert sein:
-   ```bash
-   python MkvCutCutGui.py
-   
+```bash
+python MkvCutCut.py
+```
 
-```markdown
+---
+
 ## 📜 License & Credits
 - **License:** MIT License.
 - **Credits:** Powered by [MKVToolNix](https://mkvtoolnix.download/) (Moritz Bunkus). Regards to Bunkus!
