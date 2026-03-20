@@ -28,7 +28,7 @@
 1. **Download EXE:** Go to [Releases](../../releases) and download `MKV-Cutcut-GUI_v1.1.exe`.
 2. **Run from Source:** Ensure [MKVToolNix](https://mkvtoolnix.download/) is installed and run:
 ```bash
-python MkvCutCut.py
+python MkvCutCutGui.py
 ```
 
 ---
@@ -50,7 +50,7 @@ python MkvCutCut.py
 1. **EXE İndir:** [Releases](../../releases) sayfasından güncel `MKV-Cutcut-GUI_v1.1.exe` dosyasını indirin.
 2. **Koddan Çalıştır:** Bilgisayarınızda [MKVToolNix](https://mkvtoolnix.download/) kurulu olmalıdır:
 ```bash
-python MkvCutCut.py
+python MkvCutCutGui.py
 ```
 
 ---
@@ -72,7 +72,7 @@ python MkvCutCut.py
 1. **EXE Herunterladen:** Unter [Releases](../../releases) die `MKV-Cutcut-GUI_v1.1.exe` laden.
 2. **Vom Quellcode starten:** [MKVToolNix](https://mkvtoolnix.download/) muss installiert sein:
 ```bash
-python MkvCutCut.py
+python MkvCutCutGui.py
 ```
 
 ---
